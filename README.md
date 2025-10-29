@@ -114,6 +114,15 @@ violet-vogue/
 **Icons & Emojis**:	Visual enhancement and personality
 
 -------
+
+## Sustainable Development Goals
+Violet Vogue aligns with:
+- **SDG 8**: Promotes economic growth through e-commerce and job opportunities.
+- **SDG 9**: Leverages innovative web technologies and animations.
+- **SDG 12**: Encourages responsible consumption via sustainable product curation.
+- **SDG 5**: Supports inclusivity by featuring diverse fashion creators.
+------
+
 # 🚀 Setup Instructions
 -------
 # 1. Clone the Repository
